@@ -10,10 +10,10 @@ export default function ProductTable({ data, onDelete, onEdit }) {
             <th className='min-w-[50px] px-4 py-2 border-0'>
               <img className='w-6 h-[21px]' src={icon_table} alt='icon-table' />
             </th>
-            <th className="font-semibold px-2 text-nowrap text-[12px] leading-[18px] align-middle tracking-normal">Nazwa produktu</th>
-            <th className="font-semibold px-2 text-nowrap text-[12px] leading-[18px] align-middle tracking-normal">Status</th>
-            <th className="font-semibold px-2 text-nowrap text-[12px] leading-[18px] align-middle tracking-normal">Cena</th>
-            <th className="font-semibold px-2 text-nowrap text-[12px] leading-[18px] align-middle tracking-normal">Łączna liczba kupionych</th>
+            <th className="font-semibold px-2 md:text-nowrap   text-[12px] leading-[18px] align-middle tracking-normal">Nazwa produktu</th>
+            <th className="font-semibold px-2 md:text-nowrap text-[12px] leading-[18px] align-middle tracking-normal">Status</th>
+            <th className="font-semibold px-2 md:text-nowrap text-[12px] leading-[18px] align-middle tracking-normal">Cena</th>
+            <th className="font-semibold px-2 md:text-nowrap text-[12px] leading-[18px] align-middle tracking-normal">Łączna liczba kupionych</th>
             <th></th>
           </tr>
         </thead>

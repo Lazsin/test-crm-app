@@ -8,7 +8,7 @@ export default function FilterTabs({ filter, setFilter, counts }) {
   ];
 
   return (
-    <div className='togglebutton flex justify-center gap-4'>
+    <div className='togglebutton flex flex-col md:flex-row justify-center gap-4'>
       {tabs.map(({ label, count }) => (
         <div
           key={label}
