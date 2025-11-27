@@ -2,9 +2,8 @@ import { icons }from "../assets/icons"
 import logo from "/logo.svg"
 
 export default function SideBar(){
-    return(
-        <>
-        <div className="sidebar min-w-60 flex flex-col  bg-[#04141B] text-[#D8D8D8] font-['Days_One'] font-normal text-[12px] leading-[22px] tracking-[0] align-middle">
+  return(
+    <div className="sidebar min-w-60 flex flex-col  bg-[#04141B] text-[#D8D8D8] font-['Days_One'] font-normal text-[12px] leading-[22px] tracking-[0] align-middle">
         <div className="flex justify-center items-center mt-4"><img src={logo} alt="logo"/></div>
         <hr className="my-5" style={{ color: '#22FEFF99' }}/>
         <div className='lists'>
@@ -87,6 +86,5 @@ export default function SideBar(){
         </div>
 
       </div>
-        </>
-    )
+  )
 }
