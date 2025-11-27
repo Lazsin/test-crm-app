@@ -1,7 +1,7 @@
 import './App.css'
 import Header from './components/Header'
 import SideBar from "./components/SideBar"
-import TableProduct from './components/TableProduct'
+import MainBar from './components/MainBar'
 
 
 
@@ -12,7 +12,7 @@ export default function App() {
       <SideBar/>
       <div className="flex flex-col mx-8 my-4 w-full">
         <Header/>
-        <TableProduct/>
+        <MainBar/>
       </div>
     </div>
   )
