@@ -16,7 +16,6 @@ export const icons = {
       />
     </svg>
   ),
-
   li_teacher: (
     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
@@ -33,7 +32,6 @@ export const icons = {
       />
     </svg>
   ),
-
   li_qroup: (
     <svg
   width="17"
@@ -49,7 +47,6 @@ export const icons = {
 </svg>
 
   ),
-
   li_students: (
     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
       <g clipPath="url(#clip0_1_70)">
@@ -85,7 +82,6 @@ export const icons = {
       </defs>
     </svg>
   ),
-
   recovery: (
     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M8 4V8" stroke="#42E1E8" strokeLinecap="round" strokeLinejoin="round" />
@@ -99,7 +95,6 @@ export const icons = {
       />
     </svg>
   ),
-
   calendar: (
     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
@@ -113,7 +108,6 @@ export const icons = {
       <path d="M5.3332 1V3.66667" stroke="#42E1E8" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   ),
-
   training: (
     <svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M8 14.3333H14" stroke="#42E1E8" strokeLinecap="round" strokeLinejoin="round" />
@@ -125,7 +119,6 @@ export const icons = {
       />
     </svg>
   ),
-
   video_materials: (
     <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path
@@ -142,7 +135,6 @@ export const icons = {
       />
     </svg>
   ),
-
   shop: (
     <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M13.9999 9.33325H9.3332V13.9999H13.9999V9.33325Z" stroke="#42E1E8" strokeLinecap="round" strokeLinejoin="round" />
@@ -151,7 +143,6 @@ export const icons = {
       <path d="M6.66667 2H2V6.66667H6.66667V2Z" stroke="#42E1E8" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   ),
-
   finance: (
     <svg
   width="16"
@@ -180,7 +171,6 @@ export const icons = {
       </defs>
     </svg>
   ),
-
   quetions: (
     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M7.99999 14.6667C11.6819 14.6667 14.6667 11.6819 14.6667 8.00004C14.6667 4.31814 11.6819 1.33337 7.99999 1.33337C4.31809 1.33337 1.33333 4.31814 1.33333 8.00004C1.33333 11.6819 4.31809 14.6667 7.99999 14.6667Z" stroke="#42E1E8" strokeLinecap="round" strokeLinejoin="round"/>
@@ -188,13 +178,11 @@ export const icons = {
       <path d="M6.05999 6.00001C6.21673 5.55446 6.52609 5.17875 6.93329 4.93944C7.34049 4.70012 7.81925 4.61264 8.28477 4.69249C8.75029 4.77234 9.17253 5.01436 9.47671 5.3757C9.78088 5.73703 9.94736 6.19436 9.94665 6.66668C9.94665 8.00001 7.94666 8.66668 7.94666 8.66668" stroke="#42E1E8" strokeLinecap="round" strokeLinejoin="round"/>
     </svg>
   ),
-
   connect: (
     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M14 10C14 10.3536 13.8595 10.6928 13.6095 10.9428C13.3594 11.1929 13.0203 11.3333 12.6667 11.3333H4.66667L2 14V3.33333C2 2.97971 2.14048 2.64057 2.39052 2.39052C2.64057 2.14048 2.97971 2 3.33333 2H12.6667C13.0203 2 13.3594 2.14048 13.6095 2.39052C13.8595 2.64057 14 2.97971 14 3.33333V10Z" stroke="#42E1E8" strokeLinecap="round" strokeLinejoin="round"/>
     </svg>
   ),
-
   doc: (
     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M9.33333 1.33331H4C3.64638 1.33331 3.30724 1.47379 3.05719 1.72384C2.80714 1.97389 2.66667 2.31302 2.66667 2.66665V13.3333C2.66667 13.6869 2.80714 14.0261 3.05719 14.2761C3.30724 14.5262 3.64638 14.6666 4 14.6666H12C12.3536 14.6666 12.6928 14.5262 12.9428 14.2761C13.1929 14.0261 13.3333 13.6869 13.3333 13.3333V5.33331L9.33333 1.33331Z" stroke="#42E1E8" strokeLinecap="round" strokeLinejoin="round"/>
@@ -204,7 +192,6 @@ export const icons = {
       <path d="M9.33333 1.33331V5.33331H13.3333" stroke="#42E1E8" strokeLinecap="round" strokeLinejoin="round"/>
     </svg>
   ),
-
   exit: (
     <svg
       width="44"

@@ -1,9 +1,9 @@
 export const tableData = [
-  { id: 1,  icon: '/icons/icon1.svg',  productName: 'Produkt A', status: 'Aktywne',          price: '100 PLN', totalBought: 50 },
-  { id: 2,  icon: '/icons/icon2.svg',  productName: 'Produkt B', status: 'Aktywne',          price: '150 PLN', totalBought: 20 },
-  { id: 3,  icon: '/icons/icon3.svg',  productName: 'Produkt C', status: 'Nieopublikowane',  price: '200 PLN', totalBought: 35 },
-  { id: 4,  icon: '/icons/icon4.svg',  productName: 'Produkt D', status: 'Aktywne',          price: '250 PLN', totalBought: 0 },
-  { id: 5,  icon: '/icons/icon5.svg',  productName: 'Produkt E', status: 'Nieopublikowane',  price: '300 PLN', totalBought: 70 },
+  { id: 1,  icon: '/icon_product/icon1.jpg',  productName: 'Bidon', status: 'Aktywne',          price: '10 SD', totalBought: 1356 },
+  { id: 2,  icon: '/icon_product/icon2.jpg',  productName: 'Układanka', status: 'Nieopublikowane',          price: '16 SD', totalBought: 892 },
+  { id: 3,  icon: '/icon_product/icon3.jpg',  productName: 'Pop Socket', status: 'Aktywne',  price: '5 SD', totalBought: 792 },
+  { id: 4,  icon: '/icon_product/icon4.jpg',  productName: 'Plecak fioletowy', status: 'Aktywne',          price: '25 SD', totalBought: 432 },
+  { id: 5,  icon: '/icon_product/icon5.png',  productName: 'Plecak niebieski', status: 'Aktywne',  price: '25 SD', totalBought: 363 },
 
   { id: 6,  icon: '/icons/icon6.svg',  productName: 'Produkt F', status: 'Aktywne',          price: '120 PLN', totalBought: 15 },
   { id: 7,  icon: '/icons/icon7.svg',  productName: 'Produkt G', status: 'Nieopublikowane',  price: '180 PLN', totalBought: 5 },
