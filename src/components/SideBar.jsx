@@ -3,7 +3,7 @@ import logo from "/logo_space-memory.png"
 
 export default function SideBar(){
   return(
-    <div className="sidebar min-w-60 flex flex-col  bg-[#04141B] text-[#D8D8D8] font-['Days_One'] font-normal text-[12px] leading-[22px] tracking-[0] align-middle">
+    <div className="sidebar min-w-60 flex flex-col h-screen overflow-y-auto scrollbar-hide bg-[#04141B] text-[#D8D8D8] font-['Days_One'] font-normal text-[12px] leading-[22px] tracking-[0] align-middle">
         <div className="flex justify-center items-center mt-4">
           <img className="w-32" src={logo} alt="logo"/>
         </div>

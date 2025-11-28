@@ -23,7 +23,7 @@ export default function App() {
   );
 
   return (
-    <div className='flex bg-[#F2F1F6]'>
+    <div className='flex  bg-[#F2F1F6] min-h-screen h-full'>
       {/* Кнопка бургер - видна только на маленьких экранах */}
       <div className="fixed m-5 bg-[#04141b] border border-[#20feff] rounded-full w-10 h-10 flex justify-center items-center lg:hidden z-50">
         <button
